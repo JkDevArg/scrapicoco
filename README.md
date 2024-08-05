@@ -31,7 +31,7 @@
 
    ```bash
    git clone https://github.com/JkDevArg/scrapicoco.git
-   cd security-recon-tool
+   cd scrapicoco
    ```
 
 2. Instala las dependencias:
